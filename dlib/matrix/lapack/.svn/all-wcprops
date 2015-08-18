@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/lapack
+END
+potrf.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/lapack/potrf.h
+END
+ormqr.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/lapack/ormqr.h
+END
+gees.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/lapack/gees.h
+END
+geqrf.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/lapack/geqrf.h
+END
+geev.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/lapack/geev.h
+END
+gesdd.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/lapack/gesdd.h
+END
+syev.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/lapack/syev.h
+END
+fortran_id.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/lapack/fortran_id.h
+END
+getrf.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/lapack/getrf.h
+END
+gesvd.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/lapack/gesvd.h
+END
+syevr.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/lapack/syevr.h
+END

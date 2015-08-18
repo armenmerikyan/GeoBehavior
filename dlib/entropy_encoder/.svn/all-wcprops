@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/entropy_encoder
+END
+entropy_encoder_kernel_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/entropy_encoder/entropy_encoder_kernel_1.cpp
+END
+entropy_encoder_kernel_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/entropy_encoder/entropy_encoder_kernel_2.cpp
+END
+entropy_encoder_kernel_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/entropy_encoder/entropy_encoder_kernel_1.h
+END
+entropy_encoder_kernel_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/entropy_encoder/entropy_encoder_kernel_2.h
+END
+entropy_encoder_kernel_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/entropy_encoder/entropy_encoder_kernel_c.h
+END
+entropy_encoder_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/entropy_encoder/entropy_encoder_kernel_abstract.h
+END

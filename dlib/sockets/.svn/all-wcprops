@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sockets
+END
+sockets_extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sockets/sockets_extensions.h
+END
+windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sockets/windows.h
+END
+sockets_kernel_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sockets/sockets_kernel_1.h
+END
+sockets_kernel_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sockets/sockets_kernel_2.h
+END
+sockets_extensions_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sockets/sockets_extensions_abstract.h
+END
+sockets_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sockets/sockets_kernel_abstract.h
+END
+posix.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sockets/posix.h
+END
+sockets_extensions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sockets/sockets_extensions.cpp
+END
+sockets_kernel_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sockets/sockets_kernel_1.cpp
+END
+sockets_kernel_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sockets/sockets_kernel_2.cpp
+END

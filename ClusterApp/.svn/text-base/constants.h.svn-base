@@ -1,0 +1,1 @@
+#define LOCATIONS_TABLE @"locations_table"

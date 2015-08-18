@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/blas_bindings
+END
+vector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/blas_bindings/vector.cpp
+END
+blas_bindings_gemm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/blas_bindings/blas_bindings_gemm.cpp
+END
+blas_bindings_dot.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/blas_bindings/blas_bindings_dot.cpp
+END
+blas_bindings_ger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/blas_bindings/blas_bindings_ger.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/blas_bindings/CMakeLists.txt
+END
+blas_bindings_gemv.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/blas_bindings/blas_bindings_gemv.cpp
+END

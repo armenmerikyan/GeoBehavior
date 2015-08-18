@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_saver
+END
+save_png.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_saver/save_png.cpp
+END
+dng_shared.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_saver/dng_shared.h
+END
+image_saver.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_saver/image_saver.h
+END
+save_png.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_saver/save_png.h
+END
+image_saver_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_saver/image_saver_abstract.h
+END
+save_png_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_saver/save_png_abstract.h
+END

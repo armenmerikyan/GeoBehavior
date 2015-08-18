@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/memory_manager_stateless
+END
+memory_manager_stateless_kernel_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/memory_manager_stateless/memory_manager_stateless_kernel_1.h
+END
+memory_manager_stateless_kernel_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/memory_manager_stateless/memory_manager_stateless_kernel_2.h
+END
+memory_manager_stateless_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/memory_manager_stateless/memory_manager_stateless_kernel_abstract.h
+END

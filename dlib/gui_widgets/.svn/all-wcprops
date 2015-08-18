@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets
+END
+widgets_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/widgets_abstract.h
+END
+fonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/fonts.h
+END
+base_widgets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/base_widgets.cpp
+END
+style.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/style.cpp
+END
+base_widgets.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/base_widgets.h
+END
+style.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/style.h
+END
+widgets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/widgets.cpp
+END
+drawable_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/drawable_abstract.h
+END
+widgets.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/widgets.h
+END
+canvas_drawing_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/canvas_drawing_abstract.h
+END
+drawable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/drawable.cpp
+END
+fonts_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/fonts_abstract.h
+END
+nativefont.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/nativefont.h
+END
+canvas_drawing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/canvas_drawing.cpp
+END
+drawable.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/drawable.h
+END
+style_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/style_abstract.h
+END
+base_widgets_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/base_widgets_abstract.h
+END
+fonts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/fonts.cpp
+END
+canvas_drawing.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_widgets/canvas_drawing.h
+END

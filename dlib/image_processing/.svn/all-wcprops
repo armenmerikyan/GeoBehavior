@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_processing
+END
+detection_template_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_processing/detection_template_tools.h
+END
+scan_image_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_processing/scan_image_abstract.h
+END
+scan_image_pyramid.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_processing/scan_image_pyramid.h
+END
+scan_image_pyramid_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_processing/scan_image_pyramid_tools.h
+END
+detection_template_tools_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_processing/detection_template_tools_abstract.h
+END
+box_overlap_testing.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_processing/box_overlap_testing.h
+END
+scan_image_pyramid_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_processing/scan_image_pyramid_abstract.h
+END
+scan_image_pyramid_tools_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_processing/scan_image_pyramid_tools_abstract.h
+END
+object_detector.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_processing/object_detector.h
+END
+box_overlap_testing_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_processing/box_overlap_testing_abstract.h
+END
+object_detector_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_processing/object_detector_abstract.h
+END
+scan_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_processing/scan_image.h
+END

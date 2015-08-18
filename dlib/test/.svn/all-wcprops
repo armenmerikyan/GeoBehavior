@@ -1,0 +1,725 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test
+END
+sequence_labeler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/sequence_labeler.cpp
+END
+object_detector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/object_detector.cpp
+END
+graph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/graph.cpp
+END
+static_set.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/static_set.cpp
+END
+array2d.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/array2d.cpp
+END
+kernel_matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/kernel_matrix.cpp
+END
+max_cost_assignment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/max_cost_assignment.cpp
+END
+read_write_mutex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/read_write_mutex.cpp
+END
+max_sum_submatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/max_sum_submatrix.cpp
+END
+discriminant_pca.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/discriminant_pca.cpp
+END
+sequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/sequence.cpp
+END
+svm_struct.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/svm_struct.cpp
+END
+smart_pointers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/smart_pointers.cpp
+END
+conditioning_class.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/conditioning_class.cpp
+END
+binary_search_tree_kernel_2a.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/binary_search_tree_kernel_2a.cpp
+END
+ekm_and_lisf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/ekm_and_lisf.cpp
+END
+map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/map.cpp
+END
+optimization_test_functions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/optimization_test_functions.cpp
+END
+pixel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/pixel.cpp
+END
+create_iris_datafile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/create_iris_datafile.cpp
+END
+sliding_buffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/sliding_buffer.cpp
+END
+symmetric_matrix_cache.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/symmetric_matrix_cache.cpp
+END
+byte_orderer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/byte_orderer.cpp
+END
+matrix2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/matrix2.cpp
+END
+scan_image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/scan_image.cpp
+END
+matrix3.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/matrix3.cpp
+END
+type_safe_union.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/type_safe_union.cpp
+END
+find_max_factor_graph_viterbi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/find_max_factor_graph_viterbi.cpp
+END
+matrix4.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/matrix4.cpp
+END
+cmd_line_parser.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/cmd_line_parser.h
+END
+set.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/set.cpp
+END
+opt_qp_solver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/opt_qp_solver.cpp
+END
+sockets2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/sockets2.cpp
+END
+binary_search_tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/binary_search_tree.h
+END
+data_io.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/data_io.cpp
+END
+svm_c_linear.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/svm_c_linear.cpp
+END
+empirical_kernel_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/empirical_kernel_map.cpp
+END
+matrix_lu.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/matrix_lu.cpp
+END
+stack.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/stack.cpp
+END
+string.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/string.cpp
+END
+is_same_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/is_same_object.cpp
+END
+conditioning_class_c.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/conditioning_class_c.cpp
+END
+one_vs_one_trainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/one_vs_one_trainer.cpp
+END
+kmeans.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/kmeans.cpp
+END
+entropy_encoder_model.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/entropy_encoder_model.cpp
+END
+hash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/hash.cpp
+END
+md5.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/md5.cpp
+END
+optimization.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/optimization.cpp
+END
+serialize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/serialize.cpp
+END
+create_iris_datafile.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/create_iris_datafile.h
+END
+config_reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/config_reader.cpp
+END
+any.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/any.cpp
+END
+sldf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/sldf.cpp
+END
+statistics.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/statistics.cpp
+END
+geometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/geometry.cpp
+END
+pyramid_down.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/pyramid_down.cpp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/makefile
+END
+cmd_line_parser_wchar_t.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/cmd_line_parser_wchar_t.cpp
+END
+linear_manifold_regularizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/linear_manifold_regularizer.cpp
+END
+svm_multiclass_linear.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/svm_multiclass_linear.cpp
+END
+thread_pool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/thread_pool.cpp
+END
+rls.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/rls.cpp
+END
+directed_graph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/directed_graph.cpp
+END
+matrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/matrix.cpp
+END
+svm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/svm.cpp
+END
+matrix_qr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/matrix_qr.cpp
+END
+tester.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/tester.cpp
+END
+example_args.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/example_args.cpp
+END
+sockstreambuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/sockstreambuf.cpp
+END
+tokenizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/tokenizer.cpp
+END
+entropy_coder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/entropy_coder.cpp
+END
+bigint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/bigint.cpp
+END
+hog_image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/hog_image.cpp
+END
+hash_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/hash_map.cpp
+END
+timer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/timer.cpp
+END
+multithreaded_object.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/multithreaded_object.cpp
+END
+filtering.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/filtering.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/main.cpp
+END
+base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/base64.cpp
+END
+queue.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/queue.cpp
+END
+rand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/rand.cpp
+END
+probabilistic.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/probabilistic.cpp
+END
+assignment_learning.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/assignment_learning.cpp
+END
+matrix_eig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/matrix_eig.cpp
+END
+metaprogramming.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/metaprogramming.cpp
+END
+hash_table.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/hash_table.cpp
+END
+disjoint_subsets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/disjoint_subsets.cpp
+END
+lz77_buffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/lz77_buffer.cpp
+END
+bridge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/bridge.cpp
+END
+bayes_nets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/bayes_nets.cpp
+END
+any_function.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/any_function.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/CMakeLists.txt
+END
+pipe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/pipe.cpp
+END
+reference_counter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/reference_counter.cpp
+END
+hash_set.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/hash_set.cpp
+END
+binary_search_tree_mm1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/binary_search_tree_mm1.cpp
+END
+binary_search_tree_mm2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/binary_search_tree_mm2.cpp
+END
+one_vs_all_trainer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/one_vs_all_trainer.cpp
+END
+compress_stream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/compress_stream.cpp
+END
+binary_search_tree_kernel_1a.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/binary_search_tree_kernel_1a.cpp
+END
+matrix_chol.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/matrix_chol.cpp
+END
+find_max_factor_graph_nmplp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/find_max_factor_graph_nmplp.cpp
+END
+least_squares.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/least_squares.cpp
+END
+sockets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/sockets.cpp
+END
+tester.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/tester.h
+END
+crc32.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/crc32.cpp
+END
+member_function_pointer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/member_function_pointer.cpp
+END
+array.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/array.cpp
+END
+conditioning_class.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/conditioning_class.h
+END
+std_vector_c.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/std_vector_c.cpp
+END
+checkerboard.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/checkerboard.h
+END
+kcentroid.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/kcentroid.cpp
+END
+image.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/image.cpp
+END
+optimization_test_functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/optimization_test_functions.h
+END
+static_map.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/static_map.cpp
+END
+trust_region.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/trust_region.cpp
+END
+cmd_line_parser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/cmd_line_parser.cpp
+END
+tuple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/tuple.cpp
+END
+threads.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/threads.cpp
+END
+example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/test/example.cpp
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/xml_parser
+END
+xml_parser_kernel_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/xml_parser/xml_parser_kernel_1.h
+END
+xml_parser_kernel_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/xml_parser/xml_parser_kernel_c.h
+END
+xml_parser_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/xml_parser/xml_parser_kernel_abstract.h
+END
+xml_parser_kernel_interfaces.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/xml_parser/xml_parser_kernel_interfaces.h
+END

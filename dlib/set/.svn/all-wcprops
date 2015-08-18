@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/set
+END
+set_kernel_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/set/set_kernel_1.h
+END
+set_kernel_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/set/set_kernel_c.h
+END
+set_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/set/set_kernel_abstract.h
+END
+set_compare_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/set/set_compare_1.h
+END
+set_compare_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/set/set_compare_abstract.h
+END

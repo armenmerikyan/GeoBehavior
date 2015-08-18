@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/iPhone/!svn/ver/44/ClusterApp/dlib/matrix
+END
+matrix_conv.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_conv.h
+END
+matrix_data_layout.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_data_layout.h
+END
+matrix_lu.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_lu.h
+END
+matrix_fwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_fwd.h
+END
+matrix_cholesky.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_cholesky.h
+END
+symmetric_matrix_cache_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/symmetric_matrix_cache_abstract.h
+END
+matrix_assign.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_assign.h
+END
+matrix_eigenvalue.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/44/ClusterApp/dlib/matrix/matrix_eigenvalue.h
+END
+matrix_trsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_trsm.h
+END
+matrix_conv_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_conv_abstract.h
+END
+matrix_subexp_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_subexp_abstract.h
+END
+matrix_blas_bindings.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_blas_bindings.h
+END
+matrix_conj_trans.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_conj_trans.h
+END
+matrix_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_abstract.h
+END
+matrix_subexp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_subexp.h
+END
+matrix_utilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_utilities.h
+END
+matrix_op.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_op.h
+END
+matrix_exp_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_exp_abstract.h
+END
+matrix_la_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_la_abstract.h
+END
+matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix.h
+END
+matrix_math_functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_math_functions.h
+END
+matrix_expressions.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_expressions.h
+END
+matrix_qr.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_qr.h
+END
+matrix_assign_fwd.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_assign_fwd.h
+END
+matrix_data_layout_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_data_layout_abstract.h
+END
+matrix_exp.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_exp.h
+END
+cblas_constants.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/cblas_constants.h
+END
+matrix_la.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_la.h
+END
+matrix_utilities_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_utilities_abstract.h
+END
+symmetric_matrix_cache.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/symmetric_matrix_cache.h
+END
+matrix_default_mul.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_default_mul.h
+END
+matrix_math_functions_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/matrix/matrix_math_functions_abstract.h
+END

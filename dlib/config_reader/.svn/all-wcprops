@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/config_reader
+END
+config_reader_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/config_reader/config_reader_kernel_abstract.h
+END
+config_reader_thread_safe_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/config_reader/config_reader_thread_safe_1.h
+END
+config_reader_thread_safe_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/config_reader/config_reader_thread_safe_abstract.h
+END
+config_reader_kernel_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/config_reader/config_reader_kernel_1.h
+END

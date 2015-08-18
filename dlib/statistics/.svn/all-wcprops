@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/statistics
+END
+dpca_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/statistics/dpca_abstract.h
+END
+image_feature_sampling_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/statistics/image_feature_sampling_abstract.h
+END
+statistics.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/statistics/statistics.h
+END
+statistics_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/statistics/statistics_abstract.h
+END
+random_subset_selector.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/statistics/random_subset_selector.h
+END
+dpca.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/statistics/dpca.h
+END
+image_feature_sampling.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/statistics/image_feature_sampling.h
+END
+random_subset_selector_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/statistics/random_subset_selector_abstract.h
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_loader
+END
+png_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_loader/png_loader.h
+END
+image_loader_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_loader/image_loader_abstract.h
+END
+jpeg_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_loader/jpeg_loader.h
+END
+png_loader_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_loader/png_loader_abstract.h
+END
+jpeg_loader_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_loader/jpeg_loader_abstract.h
+END
+load_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_loader/load_image.h
+END
+load_image_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_loader/load_image_abstract.h
+END
+png_loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_loader/png_loader.cpp
+END
+jpeg_loader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_loader/jpeg_loader.cpp
+END
+image_loader.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/image_loader/image_loader.h
+END

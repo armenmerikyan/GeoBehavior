@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/queue
+END
+queue_sort_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/queue/queue_sort_1.h
+END
+queue_sort_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/queue/queue_sort_abstract.h
+END
+queue_kernel_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/queue/queue_kernel_1.h
+END
+queue_kernel_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/queue/queue_kernel_2.h
+END
+queue_kernel_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/queue/queue_kernel_c.h
+END
+queue_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/queue/queue_kernel_abstract.h
+END

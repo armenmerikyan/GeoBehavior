@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/smart_pointers
+END
+shared_ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/smart_pointers/shared_ptr.h
+END
+weak_ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/smart_pointers/weak_ptr.h
+END
+shared_ptr_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/smart_pointers/shared_ptr_abstract.h
+END
+weak_ptr_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/smart_pointers/weak_ptr_abstract.h
+END
+shared_ptr_thread_safe.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/smart_pointers/shared_ptr_thread_safe.h
+END
+scoped_ptr.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/smart_pointers/scoped_ptr.h
+END
+shared_ptr_thread_safe_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/smart_pointers/shared_ptr_thread_safe_abstract.h
+END
+scoped_ptr_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/smart_pointers/scoped_ptr_abstract.h
+END

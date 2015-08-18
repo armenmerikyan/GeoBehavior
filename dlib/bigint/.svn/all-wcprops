@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/bigint
+END
+bigint_kernel_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/bigint/bigint_kernel_1.h
+END
+bigint_kernel_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/bigint/bigint_kernel_2.h
+END
+bigint_kernel_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/bigint/bigint_kernel_c.h
+END
+bigint_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/bigint/bigint_kernel_abstract.h
+END
+bigint_kernel_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/bigint/bigint_kernel_1.cpp
+END
+bigint_kernel_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/bigint/bigint_kernel_2.cpp
+END

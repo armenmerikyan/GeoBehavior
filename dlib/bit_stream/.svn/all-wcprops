@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/bit_stream
+END
+bit_stream_kernel_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/bit_stream/bit_stream_kernel_1.h
+END
+bit_stream_kernel_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/bit_stream/bit_stream_kernel_c.h
+END
+bit_stream_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/bit_stream/bit_stream_kernel_abstract.h
+END
+bit_stream_multi_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/bit_stream/bit_stream_multi_1.h
+END
+bit_stream_kernel_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/bit_stream/bit_stream_kernel_1.cpp
+END
+bit_stream_multi_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/bit_stream/bit_stream_multi_c.h
+END
+bit_stream_multi_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/bit_stream/bit_stream_multi_abstract.h
+END

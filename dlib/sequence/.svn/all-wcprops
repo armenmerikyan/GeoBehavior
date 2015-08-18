@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sequence
+END
+sequence_kernel_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sequence/sequence_kernel_2.h
+END
+sequence_kernel_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sequence/sequence_kernel_c.h
+END
+sequence_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sequence/sequence_kernel_abstract.h
+END
+sequence_compare_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sequence/sequence_compare_1.h
+END
+sequence_sort_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sequence/sequence_sort_1.h
+END
+sequence_sort_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sequence/sequence_sort_2.h
+END
+sequence_compare_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sequence/sequence_compare_abstract.h
+END
+sequence_sort_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sequence/sequence_sort_abstract.h
+END
+sequence_kernel_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/sequence/sequence_kernel_1.h
+END

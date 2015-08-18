@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/lsh
+END
+projection_hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/lsh/projection_hash.h
+END
+create_random_projection_hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/lsh/create_random_projection_hash.h
+END
+projection_hash_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/lsh/projection_hash_abstract.h
+END
+create_random_projection_hash_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/lsh/create_random_projection_hash_abstract.h
+END

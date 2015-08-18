@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_core
+END
+windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_core/windows.h
+END
+gui_core_kernel_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_core/gui_core_kernel_1.h
+END
+gui_core_kernel_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_core/gui_core_kernel_2.h
+END
+xlib.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_core/xlib.h
+END
+gui_core_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_core/gui_core_kernel_abstract.h
+END
+gui_core_kernel_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_core/gui_core_kernel_1.cpp
+END
+gui_core_kernel_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/gui_core/gui_core_kernel_2.cpp
+END

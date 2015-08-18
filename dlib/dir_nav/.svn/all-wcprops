@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/dir_nav
+END
+windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/dir_nav/windows.h
+END
+dir_nav_extensions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/dir_nav/dir_nav_extensions.cpp
+END
+dir_nav_kernel_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/dir_nav/dir_nav_kernel_1.cpp
+END
+dir_nav_kernel_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/dir_nav/dir_nav_kernel_2.cpp
+END
+dir_nav_extensions.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/dir_nav/dir_nav_extensions.h
+END
+dir_nav_kernel_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/dir_nav/dir_nav_kernel_1.h
+END
+posix.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/dir_nav/posix.h
+END
+dir_nav_kernel_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/dir_nav/dir_nav_kernel_2.h
+END
+dir_nav_extensions_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/dir_nav/dir_nav_extensions_abstract.h
+END
+dir_nav_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/dir_nav/dir_nav_kernel_abstract.h
+END

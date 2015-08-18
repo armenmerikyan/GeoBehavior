@@ -1,0 +1,203 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/iPhone/!svn/ver/44/ClusterApp
+END
+KCutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/iPhone/!svn/ver/2/ClusterApp/KCutil.h
+END
+SQLiteManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/iPhone/!svn/ver/2/ClusterApp/SQLiteManager.h
+END
+KMdata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/iPhone/!svn/ver/2/ClusterApp/KMdata.cpp
+END
+KMfilterCenters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iPhone/!svn/ver/2/ClusterApp/KMfilterCenters.cpp
+END
+KM_ANN.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/iPhone/!svn/ver/2/ClusterApp/KM_ANN.cpp
+END
+KMterm.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/iPhone/!svn/ver/2/ClusterApp/KMterm.h
+END
+extract_the_boost_sources_here
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/2/ClusterApp/extract_the_boost_sources_here
+END
+SQLiteManager.m
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/iPhone/!svn/ver/36/ClusterApp/SQLiteManager.m
+END
+green_pin.png
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/iPhone/!svn/ver/37/ClusterApp/green_pin.png
+END
+KMrand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/iPhone/!svn/ver/2/ClusterApp/KMrand.cpp
+END
+test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/iPhone/!svn/ver/2/ClusterApp/test.cpp
+END
+KCtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/iPhone/!svn/ver/2/ClusterApp/KCtree.h
+END
+KMeans.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/iPhone/!svn/ver/2/ClusterApp/KMeans.h
+END
+KMlocal.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/iPhone/!svn/ver/2/ClusterApp/KMlocal.h
+END
+icon.png
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/iPhone/!svn/ver/42/ClusterApp/icon.png
+END
+dhmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/iPhone/!svn/ver/2/ClusterApp/dhmm.h
+END
+KCutil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/iPhone/!svn/ver/2/ClusterApp/KCutil.cpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/iPhone/!svn/ver/2/ClusterApp/Makefile
+END
+KMterm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/iPhone/!svn/ver/2/ClusterApp/KMterm.cpp
+END
+KMcenters.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/iPhone/!svn/ver/2/ClusterApp/KMcenters.h
+END
+KMfilterCenters.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/iPhone/!svn/ver/2/ClusterApp/KMfilterCenters.h
+END
+KMdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/iPhone/!svn/ver/2/ClusterApp/KMdata.h
+END
+KM_ANN.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/iPhone/!svn/ver/2/ClusterApp/KM_ANN.h
+END
+KCtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/iPhone/!svn/ver/2/ClusterApp/KCtree.cpp
+END
+KMeans.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/iPhone/!svn/ver/2/ClusterApp/KMeans.cpp
+END
+KMrand.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/iPhone/!svn/ver/2/ClusterApp/KMrand.h
+END
+red_pin.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/iPhone/!svn/ver/37/ClusterApp/red_pin.png
+END
+KMlocal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/iPhone/!svn/ver/2/ClusterApp/KMlocal.cpp
+END
+orange_pin.png
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/iPhone/!svn/ver/37/ClusterApp/orange_pin.png
+END
+map_pin_old.png
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/iPhone/!svn/ver/37/ClusterApp/map_pin_old.png
+END
+dhmm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/iPhone/!svn/ver/15/ClusterApp/dhmm.cpp
+END
+map_pin.png
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/iPhone/!svn/ver/37/ClusterApp/map_pin.png
+END
+KMcenters.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/iPhone/!svn/ver/2/ClusterApp/KMcenters.cpp
+END

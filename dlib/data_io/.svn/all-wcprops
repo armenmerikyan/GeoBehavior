@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/data_io
+END
+load_image_dataset_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/data_io/load_image_dataset_abstract.h
+END
+image_dataset_metadata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/data_io/image_dataset_metadata.cpp
+END
+libsvm_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/data_io/libsvm_io.h
+END
+libsvm_io_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/data_io/libsvm_io_abstract.h
+END
+load_image_dataset.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/data_io/load_image_dataset.h
+END
+image_dataset_metadata.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/data_io/image_dataset_metadata.h
+END

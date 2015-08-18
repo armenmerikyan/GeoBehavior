@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/misc_api
+END
+windows.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/misc_api/windows.h
+END
+misc_api_kernel_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/misc_api/misc_api_kernel_1.cpp
+END
+misc_api_kernel_2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/misc_api/misc_api_kernel_2.cpp
+END
+posix.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/misc_api/posix.h
+END
+misc_api_kernel_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/misc_api/misc_api_kernel_1.h
+END
+misc_api_kernel_2.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/misc_api/misc_api_kernel_2.h
+END
+misc_api_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/misc_api/misc_api_kernel_abstract.h
+END

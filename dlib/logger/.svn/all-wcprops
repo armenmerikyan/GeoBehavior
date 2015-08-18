@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/logger
+END
+logger_kernel_1.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/logger/logger_kernel_1.cpp
+END
+extra_logger_headers.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/logger/extra_logger_headers.h
+END
+logger_config_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/logger/logger_config_file.cpp
+END
+logger_kernel_1.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/logger/logger_kernel_1.h
+END
+logger_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/logger/logger_kernel_abstract.h
+END
+logger_config_file.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/logger/logger_config_file.h
+END
+extra_logger_headers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/logger/extra_logger_headers.cpp
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/array2d
+END
+array2d_kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/array2d/array2d_kernel.h
+END
+serialize_pixel_overloads.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/array2d/serialize_pixel_overloads.h
+END
+array2d_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/array2d/array2d_kernel_abstract.h
+END

@@ -1,0 +1,641 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm
+END
+svm_c_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm_c_trainer.h
+END
+null_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/null_trainer.h
+END
+kcentroid_overloads.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/kcentroid_overloads.h
+END
+structural_svm_object_detection_problem.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_svm_object_detection_problem.h
+END
+kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/kernel_abstract.h
+END
+krr_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/krr_trainer_abstract.h
+END
+kcentroid_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/kcentroid_abstract.h
+END
+structural_assignment_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_assignment_trainer_abstract.h
+END
+svm_c_linear_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm_c_linear_trainer_abstract.h
+END
+reduced.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/reduced.h
+END
+kkmeans_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/kkmeans_abstract.h
+END
+assignment_function.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/assignment_function.h
+END
+svm_c_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm_c_trainer_abstract.h
+END
+cross_validate_sequence_labeler.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/cross_validate_sequence_labeler.h
+END
+svr_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svr_trainer_abstract.h
+END
+sequence_labeler_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/sequence_labeler_abstract.h
+END
+kcentroid.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/kcentroid.h
+END
+krr_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/krr_trainer.h
+END
+rls_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/rls_abstract.h
+END
+null_df.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/null_df.h
+END
+function.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/function.h
+END
+structural_svm_sequence_labeling_problem_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_svm_sequence_labeling_problem_abstract.h
+END
+one_vs_all_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/one_vs_all_trainer_abstract.h
+END
+svm_threaded_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm_threaded_abstract.h
+END
+linearly_independent_subset_finder_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/linearly_independent_subset_finder_abstract.h
+END
+sparse_kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/sparse_kernel.h
+END
+sequence_labeler.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/sequence_labeler.h
+END
+reduced_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/reduced_abstract.h
+END
+svr_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svr_trainer.h
+END
+structural_svm_distributed.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_svm_distributed.h
+END
+structural_svm_problem_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_svm_problem_abstract.h
+END
+cross_validate_assignment_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/cross_validate_assignment_trainer_abstract.h
+END
+structural_svm_sequence_labeling_problem.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_svm_sequence_labeling_problem.h
+END
+structural_object_detection_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_object_detection_trainer_abstract.h
+END
+kernel_matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/kernel_matrix.h
+END
+rvm.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/rvm.h
+END
+svm.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm.h
+END
+structural_svm_assignment_problem.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_svm_assignment_problem.h
+END
+roc_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/roc_trainer.h
+END
+rr_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/rr_trainer.h
+END
+simplify_linear_decision_function.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/simplify_linear_decision_function.h
+END
+cross_validate_regression_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/cross_validate_regression_trainer_abstract.h
+END
+krls.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/krls.h
+END
+one_vs_one_decision_function.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/one_vs_one_decision_function.h
+END
+cross_validate_assignment_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/cross_validate_assignment_trainer.h
+END
+sparse_vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/sparse_vector.h
+END
+structural_svm_distributed_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_svm_distributed_abstract.h
+END
+pegasos_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/pegasos_abstract.h
+END
+svm_c_linear_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm_c_linear_trainer.h
+END
+empirical_kernel_map_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/empirical_kernel_map_abstract.h
+END
+cross_validate_regression_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/cross_validate_regression_trainer.h
+END
+kkmeans.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/kkmeans.h
+END
+roc_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/roc_trainer_abstract.h
+END
+rr_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/rr_trainer_abstract.h
+END
+cross_validate_object_detection_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/cross_validate_object_detection_trainer_abstract.h
+END
+krls_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/krls_abstract.h
+END
+structural_svm_problem_threaded_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_svm_problem_threaded_abstract.h
+END
+sort_basis_vectors_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/sort_basis_vectors_abstract.h
+END
+multiclass_tools.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/multiclass_tools.h
+END
+one_vs_one_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/one_vs_one_trainer_abstract.h
+END
+sparse_vector_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/sparse_vector_abstract.h
+END
+empirical_kernel_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/empirical_kernel_map.h
+END
+cross_validate_sequence_labeler_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/cross_validate_sequence_labeler_abstract.h
+END
+feature_ranking.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/feature_ranking.h
+END
+structural_sequence_labeling_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_sequence_labeling_trainer_abstract.h
+END
+rbf_network_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/rbf_network_abstract.h
+END
+one_vs_all_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/one_vs_all_trainer.h
+END
+svm_threaded.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm_threaded.h
+END
+cross_validate_multiclass_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/cross_validate_multiclass_trainer_abstract.h
+END
+cross_validate_object_detection_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/cross_validate_object_detection_trainer.h
+END
+structural_svm_problem.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_svm_problem.h
+END
+one_vs_one_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/one_vs_one_trainer.h
+END
+svm_one_class_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm_one_class_trainer.h
+END
+kernel.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/kernel.h
+END
+rbf_network.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/rbf_network.h
+END
+svm_multiclass_linear_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm_multiclass_linear_trainer.h
+END
+structural_assignment_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_assignment_trainer.h
+END
+structural_svm_object_detection_problem_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_svm_object_detection_problem_abstract.h
+END
+cross_validate_multiclass_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/cross_validate_multiclass_trainer.h
+END
+rvm_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/rvm_abstract.h
+END
+kernel_matrix_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/kernel_matrix_abstract.h
+END
+svm_c_ekm_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm_c_ekm_trainer.h
+END
+simplify_linear_decision_function_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/simplify_linear_decision_function_abstract.h
+END
+svm_nu_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm_nu_trainer.h
+END
+one_vs_one_decision_function_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/one_vs_one_decision_function_abstract.h
+END
+rls.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/rls.h
+END
+assignment_function_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/assignment_function_abstract.h
+END
+pegasos.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/pegasos.h
+END
+svm_one_class_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm_one_class_trainer_abstract.h
+END
+one_vs_all_decision_function.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/one_vs_all_decision_function.h
+END
+svm_multiclass_linear_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm_multiclass_linear_trainer_abstract.h
+END
+function_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/function_abstract.h
+END
+linearly_independent_subset_finder.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/linearly_independent_subset_finder.h
+END
+svm_c_ekm_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm_c_ekm_trainer_abstract.h
+END
+sort_basis_vectors.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/sort_basis_vectors.h
+END
+structural_svm_problem_threaded.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_svm_problem_threaded.h
+END
+svm_nu_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm_nu_trainer_abstract.h
+END
+sparse_kernel_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/sparse_kernel_abstract.h
+END
+structural_object_detection_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_object_detection_trainer.h
+END
+null_trainer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/null_trainer_abstract.h
+END
+structural_sequence_labeling_trainer.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_sequence_labeling_trainer.h
+END
+multiclass_tools_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/multiclass_tools_abstract.h
+END
+one_vs_all_decision_function_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/one_vs_all_decision_function_abstract.h
+END
+feature_ranking_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/feature_ranking_abstract.h
+END
+structural_svm_assignment_problem_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/structural_svm_assignment_problem_abstract.h
+END
+svm_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/svm/svm_abstract.h
+END

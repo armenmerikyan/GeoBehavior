@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/manifold_regularization
+END
+sample_pair.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/manifold_regularization/sample_pair.h
+END
+function_objects.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/manifold_regularization/function_objects.h
+END
+linear_manifold_regularizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/manifold_regularization/linear_manifold_regularizer.h
+END
+sample_pair_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/manifold_regularization/sample_pair_abstract.h
+END
+function_objects_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/manifold_regularization/function_objects_abstract.h
+END
+linear_manifold_regularizer_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/manifold_regularization/linear_manifold_regularizer_abstract.h
+END
+graph_creation.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/manifold_regularization/graph_creation.h
+END
+graph_creation_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/manifold_regularization/graph_creation_abstract.h
+END

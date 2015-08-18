@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization
+END
+optimization_trust_region.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_trust_region.h
+END
+max_sum_submatrix_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/max_sum_submatrix_abstract.h
+END
+optimization_oca_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_oca_abstract.h
+END
+find_max_factor_graph_nmplp_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/find_max_factor_graph_nmplp_abstract.h
+END
+optimization_solve_qp2_using_smo.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_solve_qp2_using_smo.h
+END
+optimization_solve_qp_using_smo_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_solve_qp_using_smo_abstract.h
+END
+optimization_solve_qp3_using_smo.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_solve_qp3_using_smo.h
+END
+optimization_least_squares_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_least_squares_abstract.h
+END
+optimization_search_strategies.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_search_strategies.h
+END
+max_cost_assignment.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/max_cost_assignment.h
+END
+optimization_line_search_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_line_search_abstract.h
+END
+optimization_bobyqa_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_bobyqa_abstract.h
+END
+max_sum_submatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/max_sum_submatrix.h
+END
+optimization_stop_strategies_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_stop_strategies_abstract.h
+END
+optimization_oca.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_oca.h
+END
+optimization_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_abstract.h
+END
+find_max_factor_graph_nmplp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/find_max_factor_graph_nmplp.h
+END
+find_max_factor_graph_viterbi_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/find_max_factor_graph_viterbi_abstract.h
+END
+optimization_trust_region_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_trust_region_abstract.h
+END
+optimization_least_squares.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_least_squares.h
+END
+optimization_solve_qp_using_smo.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_solve_qp_using_smo.h
+END
+optimization_line_search.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_line_search.h
+END
+optimization_bobyqa.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_bobyqa.h
+END
+optimization_stop_strategies.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_stop_strategies.h
+END
+optimization.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization.h
+END
+optimization_solve_qp2_using_smo_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_solve_qp2_using_smo_abstract.h
+END
+optimization_solve_qp3_using_smo_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_solve_qp3_using_smo_abstract.h
+END
+max_cost_assignment_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/max_cost_assignment_abstract.h
+END
+find_max_factor_graph_viterbi.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/find_max_factor_graph_viterbi.h
+END
+optimization_search_strategies_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/optimization/optimization_search_strategies_abstract.h
+END

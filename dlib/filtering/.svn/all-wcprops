@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/filtering
+END
+kalman_filter_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/filtering/kalman_filter_abstract.h
+END
+rls_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/filtering/rls_filter.h
+END
+kalman_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/filtering/kalman_filter.h
+END
+rls_filter_abstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iPhone/!svn/ver/43/ClusterApp/dlib/filtering/rls_filter_abstract.h
+END

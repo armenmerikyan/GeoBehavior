@@ -49,6 +49,7 @@ void execute()
     // dimensionality of your vectors at compile time you can change the first number to 
     // a 0 and then set the size at runtime)
     // HELLO PULL REQ
+    //Hello pull req number two 
     typedef dlib::matrix<double,1,1> sample_type;
     
     // Now we are making a typedef for the kind of kernel we want to use.  I picked the

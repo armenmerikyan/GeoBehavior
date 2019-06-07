@@ -1,0 +1,131 @@
+package com.big.search.maryjane.crawler.selenium;
+
+import java.util.List;
+import org.openqa.selenium.By;
+import org.openqa.selenium.JavascriptExecutor;
+import org.openqa.selenium.StaleElementReferenceException;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.support.ui.ExpectedCondition;
+import org.openqa.selenium.support.ui.WebDriverWait;
+
+public class WebsiteCrawlerLevels {
+	public WebDriver driver = null;
+	private String[] usernames = {"askweedman"};
+	private String[] passwords = {"havefun$"};	
+	public WebsiteCrawlerLevels() {
+		// TODO Auto-generated constructor stub
+		this.driver = new FirefoxDriver();
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+    	System.setProperty("webdriver.gecko.driver", "/tmpbin/geckodriver");
+		WebsiteCrawlerLevels web = new WebsiteCrawlerLevels();		
+        for (int j=0;j<web.usernames.length;j++)  {		
+        	web.getURLContent("https://twitter.com", web.usernames[j], web.passwords[j]);
+        }
+	}
+    public void getURLContent(String url, String username, String password) {
+    	System.out.println(url);	        	
+		try{
+	    	this.driver.get(url);  		        		    	
+	        ExpectedCondition<Boolean> pageLoadCondition = new
+	                ExpectedCondition<Boolean>() {
+	                    public Boolean apply(WebDriver driver) {
+	                        return ((JavascriptExecutor)driver).executeScript("return document.readyState").equals("complete");
+	                    }
+	                };
+	                
+	        WebDriverWait wait = new WebDriverWait(this.driver, 30);
+	        wait.until(pageLoadCondition);
+	        // wait ten seconds for Capcha test to manually bypass
+	        Thread.sleep(20000);		        
+	        
+
+	    	this.driver.get(url + "/bertkreischer");  
+	    	
+	        List<WebElement> element = this.driver.findElements(By.tagName("input"));	
+	        
+	        /*
+	        for (WebElement temp : element) {
+				try{
+	        		System.out.println(temp.getAttribute("name"));
+		        	if(temp!=null && temp.getAttribute("name")!=null && temp.getAttribute("name").startsWith("session[username_or_email]")){
+		        		temp.sendKeys(username);
+		        	}
+		        	if(temp!=null && temp.getAttribute("name")!=null && temp.getAttribute("name").startsWith("session[password]")){
+		        		temp.sendKeys(password);
+		        	}
+		        } catch (StaleElementReferenceException expected) {
+		        	expected.printStackTrace();
+		        }		        
+	        }    
+	        element = this.driver.findElements(By.tagName("button"));		 
+	        for (WebElement temp : element) {
+				try{
+		        	if(temp!=null && temp.getText()!=null && temp.getText().startsWith("Log in")){
+		        		temp.click();
+		        	}
+		        } catch (StaleElementReferenceException expected) {
+		        	expected.printStackTrace();
+		        }		        
+	        } 	    
+	        */    
+	        
+	        /*
+	        element = this.driver.findElements(By.tagName("input"));		 
+	        for (WebElement temp : element) {
+				try{
+	        		System.out.println(temp.getAttribute("id"));
+		        	if(temp!=null && temp.getAttribute("id")!=null && temp.getAttribute("id").startsWith("search-query")){
+		        		temp.sendKeys("@redban");
+		        	}	 
+		        } catch (StaleElementReferenceException expected) {
+		        	expected.printStackTrace();
+		        }		        
+	        } 	     
+	        element = this.driver.findElements(By.tagName("button"));		 
+	        for (WebElement temp : element) {
+				try{
+	        		System.out.println(temp.getAttribute("class"));
+		        	if(temp!=null && temp.getAttribute("class")!=null && temp.getAttribute("class").contains("nav-search")){
+		        		temp.click();
+		        	}	 
+		        } catch (StaleElementReferenceException expected) {
+		        	expected.printStackTrace();
+		        }		        
+	        }     
+	        */
+	         
+	        
+	        wait.until(pageLoadCondition);
+	        // wait ten seconds for Capcha test to manually bypass
+
+	        JavascriptExecutor jse = (JavascriptExecutor)this.driver;
+	        for(int j=0;j<2000;j++){
+	        	jse.executeScript("window.scrollBy(0,250)", "");
+		        Thread.sleep(200);
+			}
+	        Thread.sleep(30000);		        
+	        int i = 0;
+	        element = this.driver.findElements(By.tagName("button"));		 
+	        for (WebElement temp : element) {
+				try{
+	        		System.out.println(temp.getAttribute("aria-describedby"));
+		        	if(temp!=null && temp.getAttribute("aria-describedby")!=null && temp.getAttribute("aria-describedby").startsWith("profile-tweet-action-favorite-count-")){	       
+		    	        
+		        		temp.click();
+		        		System.out.println("like clicked");
+
+		        	}	 
+		        } catch (Exception expected) {
+		        	expected.printStackTrace();
+		        }	
+	        }
+	        
+		}catch(Exception ex){
+			ex.printStackTrace();
+		}    	
+    }
+}
